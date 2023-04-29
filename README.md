@@ -31,7 +31,11 @@ Github link
 https://github.com/FadumaD/Book-Search-21
 
 Heroku link 
-
+https://booksearchapplication.herokuapp.com 
+ To deploy on github 
+ heroku create
+ git push heroku main
+ heroku open
 added when its deployed 
 
 <img width="931" alt="Screenshot 2023-04-29 at 15 59 43" src="https://user-images.githubusercontent.com/117111465/235309408-52cf1fca-dfd6-486d-919e-141fd2755e2f.png">
