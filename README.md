@@ -1,4 +1,4 @@
-# Book Search Engine
+# Book Search Project
 
 ## Table of Contents
 
@@ -14,17 +14,11 @@
 
 This application is made so that you can search for any book of your liking and it will come up 
 
-## Installation
+## Installation and Run
 
-Npm install to run this 
+Npm install to install and then Npm run develop to run this program 
 
-## Usage
 
-After installing npm packages, the application will be invoked by using the following command:
-
-```
-npm run develop
-```
 
 ## Technology:
 
@@ -40,4 +34,5 @@ Heroku link
 
 added when its deployed 
 
+<img width="931" alt="Screenshot 2023-04-29 at 15 59 43" src="https://user-images.githubusercontent.com/117111465/235309408-52cf1fca-dfd6-486d-919e-141fd2755e2f.png">
 
